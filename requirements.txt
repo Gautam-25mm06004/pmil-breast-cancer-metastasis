@@ -1,0 +1,10 @@
+gdown
+matplotlib
+numpy
+openslide
+pandas
+pillow
+requests
+scikit-learn
+torch
+torchvision
